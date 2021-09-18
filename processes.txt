@@ -1,0 +1,10 @@
+calculator.exe
+//searchapp.exe doesnt work restarts
+//steamwebhelper.exe
+//startmenuexperiencehost.exe
+//nvidia share.exe
+//nvidiashare.exe
+lockapp.exe
+textinputhost.exe
+GamingServices.exe
+GamingServicesNet.exe
